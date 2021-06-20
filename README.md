@@ -1,2 +1,2 @@
 # tente-acertar
-Jogo tente acertar o numero em C
+<b>Jogo do tente acertar o numero em C</b>
